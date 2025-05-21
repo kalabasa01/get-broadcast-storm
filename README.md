@@ -5,7 +5,6 @@ By this script it will help to lessen the work of administrator to access each s
 
 ## Language Used:
 - Python
-- PIP
 
 ## Python Module:
 - Install the Netmiko Library
